@@ -1,3 +1,3 @@
 # flutter_application_1
 
-A new Flutter project.
+My CS Seminar Project - First Flutter Application
